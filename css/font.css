@@ -1,0 +1,7 @@
+/* 字体css */
+@font-face{
+  font-family: 'LXGWWenKaiGBScreen'; 
+  font-display: swap;
+  src: url('/fonts/LXGWWenKaiGBScreen.woff2') 
+  format("truetype");
+}
